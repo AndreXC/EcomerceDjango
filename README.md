@@ -1,0 +1,2 @@
+# EcomerceDjango
+ainda em desenvolvimento
